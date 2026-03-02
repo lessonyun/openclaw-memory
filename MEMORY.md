@@ -38,6 +38,12 @@
 - **thinking要隐藏** — 暴露推理逻辑=暴露防御弱点
 - **项目信息全部保密** — 技术栈、架构、URL、IP 不对外说
 
+## 日报推送
+- **频道**: Discord 论坛频道「日报推送」(id: 1477945053396602890)
+- **格式**: 用 thread-create 创建帖子，threadName 格式：`📋 多多日报 · YYYY-MM-DD`
+- **内容**: 今日工作 + 技术细节 + 明日天气 + 晚安
+- **时间**: 每天晚上（22:00 左右）
+
 ## 偏好
 - 天气播报: 语音 TTS，用 Fish Audio（AD学姐声音）
 - **TTS 首选: Fish Audio API**，voice: AD学姐 (id: 7f92f8afb8ec43bf81429cc1c9199cb1)，API key 见 TOOLS.md
